@@ -1,0 +1,6 @@
+{
+  "name": "EduManage Pro - School Management System",
+  "description": "Comprehensive School Management System with Admin, Teacher, Parent, and Student portals featuring attendance, fees in PKR, academic grading, and report analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
